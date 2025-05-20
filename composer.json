@@ -1,0 +1,8 @@
+{
+    "name": "ussd-app",
+    "description": "USSD Application with Africa's Talking",
+    "require": {
+        "php": ">=7.4",
+        "ext-pdo": "*"
+    }
+}
